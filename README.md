@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install app```
+
+Sistema de Registro 2
